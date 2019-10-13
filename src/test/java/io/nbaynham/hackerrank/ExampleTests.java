@@ -2,16 +2,19 @@ package io.nbaynham.hackerrank;
 
 import org.testng.annotations.Test;
 
-import java.text.NumberFormat;
 import java.util.Locale;
 
+import static io.nbaynham.utils.Currency.getFormattedCurrency;
+import static org.testng.Assert.assertEquals;
+
 public class ExampleTests {
-    private static final String example = "Example";
+    private static final double number = 10.99;
 
     @Test
-    public void test() {
-        NumberFormat format = NumberFormat.getCurrencyInstance(Locale.US);
-        String currency = format.format(100.99);
-        System.out.println("Currency in US: " + currency);
+    public void currencyTest() {
+        assertEquals(getFormattedCurrency(Locale.US, number), "$10.99");
+        assertEquals(getFormattedCurrency(Locale.CHINA, number), "￥10.99");
+        assertEquals(getFormattedCurrency(Locale.FRANCE, number), "10,99 €");
+        assertEquals(getFormattedCurrency(new Locale("en", "in"), number), "Rs.10.99");
     }
 }
