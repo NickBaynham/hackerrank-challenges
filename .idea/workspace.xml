@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda0bcff-3dc3-4723-9f30-8349fedabe3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/io/nbaynham/hackerrank/ExampleTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,13 +27,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExampleTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java">
+      <file leaf-file-name="CurrencyTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="245">
+              <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleTestNG.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -364,7 +382,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/io/nbaynham/utils/Currency.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java" />
       </list>
     </option>
   </component>
@@ -397,7 +418,81 @@
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,7 +515,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ExampleTests.currencyTest">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -440,13 +535,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ExampleTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrencyTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.ExampleTests" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.CurrencyTests" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -463,13 +558,13 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ExampleTests.currencyTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrencyTests.currencyTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.ExampleTests" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.CurrencyTests" />
       <option name="METHOD_NAME" value="currencyTest" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -486,16 +581,39 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ExampleTests.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrencyTests.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.ExampleTests" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.CurrencyTests" />
       <option name="METHOD_NAME" value="test" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ExampleTestNG" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.ExampleTestNG" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -532,15 +650,17 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.ExampleTests" />
-      <item itemvalue="TestNG.ExampleTests.test" />
-      <item itemvalue="TestNG.ExampleTests.currencyTest" />
+      <item itemvalue="TestNG.CurrencyTests" />
+      <item itemvalue="TestNG.CurrencyTests.test" />
+      <item itemvalue="TestNG.CurrencyTests.currencyTest" />
+      <item itemvalue="TestNG.ExampleTestNG" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ExampleTests.currencyTest" />
-        <item itemvalue="TestNG.ExampleTests" />
-        <item itemvalue="TestNG.ExampleTests.test" />
+        <item itemvalue="TestNG.CurrencyTests" />
+        <item itemvalue="TestNG.CurrencyTests.currencyTest" />
+        <item itemvalue="TestNG.ExampleTestNG" />
+        <item itemvalue="TestNG.CurrencyTests.test" />
       </list>
     </recent_temporary>
   </component>
@@ -555,15 +675,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleTests - 2019.10.13 at 12h 53m 50s.xml">
-      <configuration name="ExampleTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExampleTests_test - 2019.10.13 at 13h 03m 01s.xml">
-      <configuration name="ExampleTests.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExampleTests_test - 2019.10.13 at 13h 03m 05s.xml">
-      <configuration name="ExampleTests.test" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ExampleTests_test - 2019.10.13 at 13h 18m 03s.xml">
       <configuration name="ExampleTests.test" configurationId="TestNG" />
     </history-entry>
@@ -572,6 +683,27 @@
     </history-entry>
     <history-entry file="ExampleTests_test - 2019.10.13 at 13h 46m 01s.xml">
       <configuration name="ExampleTests.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExampleTests_currencyTest - 2019.10.13 at 13h 50m 35s.xml">
+      <configuration name="ExampleTests.currencyTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExampleTests_currencyTest - 2019.10.13 at 13h 54m 11s.xml">
+      <configuration name="ExampleTests.currencyTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExampleTestNG - 2019.10.13 at 14h 20m 00s.xml">
+      <configuration name="ExampleTestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CurrencyTests_currencyTest - 2019.10.13 at 14h 21m 24s.xml">
+      <configuration name="CurrencyTests.currencyTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExampleTestNG - 2019.10.13 at 14h 22m 25s.xml">
+      <configuration name="ExampleTestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CurrencyTests_currencyTest - 2019.10.13 at 14h 24m 22s.xml">
+      <configuration name="CurrencyTests.currencyTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CurrencyTests_currencyTest - 2019.10.13 at 14h 30m 57s.xml">
+      <configuration name="CurrencyTests.currencyTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -606,7 +738,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
@@ -623,10 +755,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/nbaynham/utils/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

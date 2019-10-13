@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.nbaynham.hackerrank.CurrencyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-13T18:36:38" hostname="2K2C5M2" time="0.018">
+  <properties/>
+  <testcase name="currencyTest" classname="io.nbaynham.hackerrank.CurrencyTests" time="0.018"/>
+  <system-out><![CDATA[?10.99
+10,99 €
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
