@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.nbaynham.hackerrank.ExampleTestNG" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-13T18:36:38" hostname="2K2C5M2" time="0.0">
+<testsuite name="io.nbaynham.hackerrank.ExampleTestNG" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-13T19:28:33" hostname="2K2C5M2" time="0.002">
   <properties/>
-  <testcase name="test" classname="io.nbaynham.hackerrank.ExampleTestNG" time="0.0"/>
+  <testcase name="test" classname="io.nbaynham.hackerrank.ExampleTestNG" time="0.002"/>
+  <testcase name="test2" classname="io.nbaynham.hackerrank.ExampleTestNG" time="0.0"/>
   <system-out><![CDATA[I'm a Test Running...
+Hello, World!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

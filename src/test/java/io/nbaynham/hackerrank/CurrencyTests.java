@@ -9,7 +9,7 @@ import static org.testng.Assert.assertEquals;
 
 public class CurrencyTests {
 
-    @Test
+    @Test(groups={"unit", "functional"})
     public void currencyTest() {
         final double number = 10.99;
         assertEquals(getFormattedCurrency(Locale.US, number), "$10.99");

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.nbaynham.arrowAirlines.ArrowAirlinesFailureTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-13T19:28:33" hostname="2K2C5M2" time="0.002">
+  <properties/>
+  <testcase name="shouldThrowIfFlightIsFullyBooked" classname="io.nbaynham.arrowAirlines.ArrowAirlinesFailureTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

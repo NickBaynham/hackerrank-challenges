@@ -9,9 +9,14 @@ public class ExampleTestNG {
         System.out.println("Before Test Executes");
     }
 
-    @Test
+    @Test(groups={"unit", "functional"})
     public void test() {
         System.out.println("I'm a Test Running...");
+    }
+
+    @Test(groups={"unit", "functional"})
+    public void test2() {
+        System.out.println("Hello, World!");
     }
 
     @AfterTest
