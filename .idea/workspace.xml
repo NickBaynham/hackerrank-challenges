@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda0bcff-3dc3-4723-9f30-8349fedabe3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/BookingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/Confirmation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/FlightCancelledException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/FlightFullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/ItineraryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/ReservationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/arrowairlines/SeatRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/arrowairlines/ArrowAirlinesFailureTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/SubstringComparisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/nbaynham/hackerrank/CurrencyTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/io/nbaynham/hackerrank/CurrencyTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/nbaynham/hackerrank/ExampleTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/io/nbaynham/hackerrank/ExampleTestNG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/io.nbaynham.hackerrank.CurrencyTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/io.nbaynham.hackerrank.CurrencyTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/io.nbaynham.hackerrank.ExampleTestNG.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/io.nbaynham.hackerrank.ExampleTestNG.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/io.nbaynham.hackerrank.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/io.nbaynham.hackerrank.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.CurrencyTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.CurrencyTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.ExampleTestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.ExampleTestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/io/nbaynham/hackerrank/CurrencyTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/io/nbaynham/hackerrank/CurrencyTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/io/nbaynham/hackerrank/ExampleTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/io/nbaynham/hackerrank/ExampleTestNG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/CurrencyTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ExampleTestNG.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -64,11 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java">
+      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="360">
+              <caret line="50" lean-forward="true" selection-start-line="37" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -412,26 +379,22 @@
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/arrowairlines/ArrowAirlinesFailureTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/SubstringComparisons.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java" />
       </list>
     </option>
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="TestNG" name="ExampleTestNG" />
-    </enabled-run-configurations>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="y" value="-6" />
-    <option name="width" value="1549" />
-    <option name="height" value="837" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -443,56 +406,6 @@
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="arrowairlines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank-challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="nbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
@@ -538,7 +451,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -556,7 +469,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Reverse.test">
+  <component name="RunManager" selected="TestNG.Anagrams.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -575,6 +488,29 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Anagrams.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.Anagrams" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="ArrowAirlinesFailureTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
@@ -607,29 +543,6 @@
       <option name="PACKAGE_NAME" value="io.nbaynham.arrowAirlines" />
       <option name="MAIN_CLASS_NAME" value="io.nbaynham.arrowairlines.ArrowAirlinesFailureTests" />
       <option name="METHOD_NAME" value="shouldThrowExceptionIfCancelled" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="ArrowAirlinesFailureTests.shouldThrowExceptionIfFlightIsFullyBooked" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="io.nbaynham.arrowAirlines" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.arrowairlines.ArrowAirlinesFailureTests" />
-      <option name="METHOD_NAME" value="shouldThrowExceptionIfFlightIsFullyBooked" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -714,19 +627,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfFlightIsFullyBooked" />
       <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfCancelled" />
       <item itemvalue="TestNG.ArrowAirlinesFailureTests" />
       <item itemvalue="TestNG.SubstringComparisons.test" />
       <item itemvalue="TestNG.Reverse.test" />
+      <item itemvalue="TestNG.Anagrams.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Anagrams.test" />
         <item itemvalue="TestNG.Reverse.test" />
         <item itemvalue="TestNG.SubstringComparisons.test" />
         <item itemvalue="TestNG.ArrowAirlinesFailureTests" />
         <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfCancelled" />
-        <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfFlightIsFullyBooked" />
       </list>
     </recent_temporary>
   </component>
@@ -741,64 +654,64 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 35m 36s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 35m 50s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 36m 45s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 41m 25s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 42m 06s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 43m 33s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 46m 12s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubstringComparisons_test - 2019.10.14 at 22h 51m 44s.xml">
-      <configuration name="SubstringComparisons.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Reverse_test - 2019.10.15 at 07h 31m 38s.xml">
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 33m 12s.xml">
       <configuration name="Reverse.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Reverse_test - 2019.10.15 at 07h 32m 12s.xml">
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 33m 56s.xml">
       <configuration name="Reverse.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 34m 42s.xml">
+      <configuration name="Reverse.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 36m 28s.xml">
+      <configuration name="Reverse.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 36m 36s.xml">
+      <configuration name="Reverse.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Reverse_test - 2019.10.15 at 07h 38m 27s.xml">
+      <configuration name="Reverse.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Anagrams_test - 2019.10.15 at 17h 42m 01s.xml">
+      <configuration name="Anagrams.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Anagrams_test - 2019.10.15 at 17h 51m 00s.xml">
+      <configuration name="Anagrams.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Anagrams_test - 2019.10.15 at 18h 00m 05s.xml">
+      <configuration name="Anagrams.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Anagrams_test - 2019.10.15 at 18h 01m 03s.xml">
+      <configuration name="Anagrams.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.190899" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32944608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52497226" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32852387" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
       <window_info anchor="bottom" id="Problems" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32944608" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6034985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6026637" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32944608" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -806,10 +719,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/arrowairlines/ArrowAirlinesFailureTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -966,18 +886,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.0.0/5a0241ace5a7b8eb3d31556a7d5dd2b3aae9baf/testng-7.0.0-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="248">
+          <caret line="15" column="42" selection-start-line="14" selection-start-column="12" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="50" lean-forward="true" selection-start-line="37" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
