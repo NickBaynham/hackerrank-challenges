@@ -16,5 +16,9 @@ dependencies {
 test {
     useTestNG() {
         useDefaultListeners = true
+        suites 'src/test/suite.xml'
+        outputDirectory = file("$projectDir/testngOutput")
     }
+    reports.html.enabled = false
+
 }
