@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda0bcff-3dc3-4723-9f30-8349fedabe3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/suite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/PatternSyntaxChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.arrowAirlines.ArrowAirlinesFailureTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.arrowAirlines.ArrowAirlinesFailureTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.CurrencyTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.CurrencyTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.ExampleTestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.nbaynham.hackerrank.ExampleTestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -48,7 +32,7 @@
       <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="833">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,20 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="306">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="suite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/suite.xml">
+      <file leaf-file-name="PatternSyntaxChecker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/PatternSyntaxChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="133">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -265,9 +252,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4713358825726" />
+        <entry key="$PROJECT_DIR$" value="4713359501052" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2739067594" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2659718466" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="53891459" />
       </map>
     </option>
@@ -398,6 +385,8 @@
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/test/suite.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/PatternSyntaxChecker.java" />
       </list>
     </option>
   </component>
@@ -412,6 +401,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -469,7 +459,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,7 +476,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Anagrams.test">
+  <component name="RunManager" selected="TestNG.PatternSyntaxChecker.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -553,14 +542,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ArrowAirlinesFailureTests.shouldThrowExceptionIfCancelled" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PatternSyntaxChecker.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="io.nbaynham.arrowAirlines" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.arrowairlines.ArrowAirlinesFailureTests" />
-      <option name="METHOD_NAME" value="shouldThrowExceptionIfCancelled" />
+      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.PatternSyntaxChecker" />
+      <option name="METHOD_NAME" value="test" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -645,19 +634,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfCancelled" />
       <item itemvalue="TestNG.ArrowAirlinesFailureTests" />
       <item itemvalue="TestNG.SubstringComparisons.test" />
       <item itemvalue="TestNG.Reverse.test" />
       <item itemvalue="TestNG.Anagrams.test" />
+      <item itemvalue="TestNG.PatternSyntaxChecker.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PatternSyntaxChecker.test" />
         <item itemvalue="TestNG.Anagrams.test" />
         <item itemvalue="TestNG.Reverse.test" />
         <item itemvalue="TestNG.SubstringComparisons.test" />
         <item itemvalue="TestNG.ArrowAirlinesFailureTests" />
-        <item itemvalue="TestNG.ArrowAirlinesFailureTests.shouldThrowExceptionIfCancelled" />
       </list>
     </recent_temporary>
   </component>
@@ -672,12 +661,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Reverse_test - 2019.10.15 at 07h 33m 56s.xml">
-      <configuration name="Reverse.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Reverse_test - 2019.10.15 at 07h 34m 42s.xml">
-      <configuration name="Reverse.test" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Reverse_test - 2019.10.15 at 07h 36m 28s.xml">
       <configuration name="Reverse.test" configurationId="TestNG" />
     </history-entry>
@@ -702,6 +685,12 @@
     <history-entry file="Anagrams_test - 2019.10.15 at 20h 46m 17s.xml">
       <configuration name="Anagrams.test" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PatternSyntaxChecker_test - 2019.10.26 at 09h 30m 12s.xml">
+      <configuration name="PatternSyntaxChecker.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PatternSyntaxChecker_test - 2019.10.26 at 09h 36m 50s.xml">
+      <configuration name="PatternSyntaxChecker.test" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -711,13 +700,13 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52478135" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3600583" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43148687" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32798833" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20590208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16566063" />
       <window_info anchor="bottom" id="Problems" order="8" weight="0.32944608" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32944608" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6026637" />
@@ -741,6 +730,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -752,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,9 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,12 +921,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="833">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -930,14 +934,31 @@
     <entry file="file://$PROJECT_DIR$/src/test/suite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/PatternSyntaxChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
