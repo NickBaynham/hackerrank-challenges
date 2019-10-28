@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda0bcff-3dc3-4723-9f30-8349fedabe3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/nbaynham/hackerrank/MyRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestMyRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ValidUsernameRegularExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
@@ -37,14 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DuplicateWords.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java">
+      <file leaf-file-name="TagContentExtractor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -377,21 +372,22 @@
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestMyRegex.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/nbaynham/hackerrank/MyRegex.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ValidUsernameRegularExpression.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="3875" />
-    <option name="height" value="2095" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -488,6 +484,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -506,7 +503,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DuplicateWords.test">
+  <component name="RunManager" selected="TestNG.TagContentExtractor.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -525,29 +522,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="Anagrams.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.Anagrams" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
     </configuration>
     <configuration name="DuplicateWords.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
@@ -595,13 +569,13 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Reverse.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TagContentExtractor.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.Reverse" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.TagContentExtractor" />
       <option name="METHOD_NAME" value="test" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -641,6 +615,29 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="ValidUsernameRegularExpression.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.ValidUsernameRegularExpression" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -664,19 +661,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.Reverse.test" />
-      <item itemvalue="TestNG.Anagrams.test" />
       <item itemvalue="TestNG.PatternSyntaxChecker.test" />
       <item itemvalue="TestNG.TestMyRegex.testMyRegex" />
       <item itemvalue="TestNG.DuplicateWords.test" />
+      <item itemvalue="TestNG.ValidUsernameRegularExpression.test" />
+      <item itemvalue="TestNG.TagContentExtractor.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TagContentExtractor.test" />
+        <item itemvalue="TestNG.ValidUsernameRegularExpression.test" />
         <item itemvalue="TestNG.DuplicateWords.test" />
         <item itemvalue="TestNG.TestMyRegex.testMyRegex" />
         <item itemvalue="TestNG.PatternSyntaxChecker.test" />
-        <item itemvalue="TestNG.Anagrams.test" />
-        <item itemvalue="TestNG.Reverse.test" />
       </list>
     </recent_temporary>
   </component>
@@ -691,51 +688,52 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 15h 58m 49s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 16h 47m 00s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 16h 02m 55s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 17h 05m 53s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 16h 07m 51s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 17h 11m 01s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 16h 08m 14s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 17h 11m 48s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 16h 09m 19s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 17h 25m 10s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMyRegex_testMyRegex - 2019.10.27 at 16h 14m 54s.xml">
-      <configuration name="TestMyRegex.testMyRegex" configurationId="TestNG" />
+    <history-entry file="ValidUsernameRegularExpression_test - 2019.10.28 at 17h 25m 35s.xml">
+      <configuration name="ValidUsernameRegularExpression.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DuplicateWords_test - 2019.10.27 at 19h 41m 23s.xml">
-      <configuration name="DuplicateWords.test" configurationId="TestNG" />
+    <history-entry file="TagContentExtractor_test - 2019.10.28 at 17h 36m 13s.xml">
+      <configuration name="TagContentExtractor.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DuplicateWords_test - 2019.10.27 at 19h 42m 18s.xml">
-      <configuration name="DuplicateWords.test" configurationId="TestNG" />
+    <history-entry file="TagContentExtractor_test - 2019.10.28 at 17h 42m 11s.xml">
+      <configuration name="TagContentExtractor.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DuplicateWords_test - 2019.10.27 at 19h 44m 52s.xml">
-      <configuration name="DuplicateWords.test" configurationId="TestNG" />
+    <history-entry file="TagContentExtractor_test - 2019.10.28 at 17h 45m 35s.xml">
+      <configuration name="TagContentExtractor.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DuplicateWords_test - 2019.10.27 at 19h 45m 12s.xml">
-      <configuration name="DuplicateWords.test" configurationId="TestNG" />
+    <history-entry file="TagContentExtractor_test - 2019.10.28 at 17h 47m 38s.xml">
+      <configuration name="TagContentExtractor.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44752187" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4472808" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3265306" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3263041" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
       <window_info anchor="bottom" id="Problems" order="8" weight="0.32944608" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32852387" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6020408" />
@@ -747,7 +745,6 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -756,10 +753,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1018,10 +1025,27 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ValidUsernameRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
         </state>
       </provider>
     </entry>
