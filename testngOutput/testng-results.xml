@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="80" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+  <suite name="Suite1" duration-ms="55" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
     <groups>
       <group name="functional">
         <method signature="CurrencyTests.currencyTest()[pri:0, instance:io.nbaynham.hackerrank.CurrencyTests@7e81ade6]" name="currencyTest" class="io.nbaynham.hackerrank.CurrencyTests"/>
@@ -11,27 +11,27 @@
         <method signature="CurrencyTests.currencyTest()[pri:0, instance:io.nbaynham.hackerrank.CurrencyTests@7e81ade6]" name="currencyTest" class="io.nbaynham.hackerrank.CurrencyTests"/>
       </group> <!-- unit -->
     </groups>
-    <test name="Regression1" duration-ms="80" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+    <test name="Regression1" duration-ms="55" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
       <class name="io.nbaynham.hackerrank.SubstringComparisons">
-        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.SubstringComparisons@5c3787e]" name="test" duration-ms="0" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.SubstringComparisons@5c3787e]" name="test" duration-ms="1" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- io.nbaynham.hackerrank.SubstringComparisons -->
       <class name="io.nbaynham.hackerrank.Reverse">
-        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.Reverse@5f651a00]" name="test" duration-ms="1" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.Reverse@5f651a00]" name="test" duration-ms="1" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- io.nbaynham.hackerrank.Reverse -->
       <class name="io.nbaynham.hackerrank.Anagrams">
-        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.Anagrams@f9ee994]" name="test" duration-ms="10" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+        <test-method status="PASS" signature="test()[pri:0, instance:io.nbaynham.hackerrank.Anagrams@f9ee994]" name="test" duration-ms="6" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- io.nbaynham.hackerrank.Anagrams -->
       <class name="io.nbaynham.hackerrank.CurrencyTests">
-        <test-method status="PASS" signature="currencyTest()[pri:0, instance:io.nbaynham.hackerrank.CurrencyTests@7e81ade6]" name="currencyTest" duration-ms="19" started-at="2019-10-15T21:08:14 EDT" finished-at="2019-10-15T21:08:14 EDT">
+        <test-method status="PASS" signature="currencyTest()[pri:0, instance:io.nbaynham.hackerrank.CurrencyTests@7e81ade6]" name="currencyTest" duration-ms="17" started-at="2019-10-29T15:41:36 EDT" finished-at="2019-10-29T15:41:36 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyTest -->
