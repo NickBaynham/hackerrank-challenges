@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda0bcff-3dc3-4723-9f30-8349fedabe3f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestBigDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -32,12 +27,12 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TagContentExtractor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java">
+    <leaf>
+      <file leaf-file-name="TestBigDecimal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestBigDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="340">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -375,22 +370,21 @@
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/DuplicateWords.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/ValidUsernameRegularExpression.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestBigDecimal.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1907" />
+    <option name="y" value="60" />
+    <option name="width" value="1932" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -487,6 +481,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -504,7 +500,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TagContentExtractor.testByRegex">
+  <component name="RunManager" selected="TestNG.TestBigDecimal.test">
     <configuration name="TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.TagContentExtractor" />
       <module name="hackerrank" />
@@ -528,29 +524,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="TagContentExtractor.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.TagContentExtractor" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
     </configuration>
     <configuration name="TagContentExtractor.testByAlgorithm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
@@ -621,6 +594,29 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="TestBigDecimal.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="io.nbaynham.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="io.nbaynham.hackerrank.TestBigDecimal" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -644,19 +640,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.TagContentExtractor.test" />
       <item itemvalue="TestNG.TagContentExtractor.testByAlgorithm" />
       <item itemvalue="TestNG.TagContentExtractor.testFindingTags" />
       <item itemvalue="TestNG.TagContentExtractor.testByRegex" />
       <item itemvalue="Application.TagContentExtractor" />
+      <item itemvalue="TestNG.TestBigDecimal.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestBigDecimal.test" />
         <item itemvalue="TestNG.TagContentExtractor.testByRegex" />
         <item itemvalue="Application.TagContentExtractor" />
         <item itemvalue="TestNG.TagContentExtractor.testFindingTags" />
         <item itemvalue="TestNG.TagContentExtractor.testByAlgorithm" />
-        <item itemvalue="TestNG.TagContentExtractor.test" />
       </list>
     </recent_temporary>
   </component>
@@ -671,27 +667,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TagContentExtractor_testFindingTags - 2019.10.29 at 14h 37m 09s.xml">
-      <configuration name="TagContentExtractor.testFindingTags" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 14h 37m 23s.xml">
-      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testFindingTags - 2019.10.29 at 14h 37m 35s.xml">
-      <configuration name="TagContentExtractor.testFindingTags" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testFindingTags - 2019.10.29 at 14h 37m 59s.xml">
-      <configuration name="TagContentExtractor.testFindingTags" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 14h 38m 23s.xml">
-      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 14h 38m 57s.xml">
-      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 14h 39m 14s.xml">
-      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TagContentExtractor_testByAlgorithm - 2019.10.29 at 14h 40m 17s.xml">
       <configuration name="TagContentExtractor.testByAlgorithm" configurationId="TestNG" />
     </history-entry>
@@ -700,6 +675,27 @@
     </history-entry>
     <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 15h 29m 47s.xml">
       <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 15h 31m 10s.xml">
+      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TagContentExtractor_testByRegex - 2019.10.29 at 15h 32m 16s.xml">
+      <configuration name="TagContentExtractor.testByRegex" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBigDecimal_test - 2019.10.31 at 12h 59m 25s.xml">
+      <configuration name="TestBigDecimal.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBigDecimal_test - 2019.10.31 at 13h 00m 05s.xml">
+      <configuration name="TestBigDecimal.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBigDecimal_test - 2019.10.31 at 13h 00m 40s.xml">
+      <configuration name="TestBigDecimal.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBigDecimal_test - 2019.10.31 at 13h 07m 50s.xml">
+      <configuration name="TestBigDecimal.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBigDecimal_test - 2019.10.31 at 13h 10m 21s.xml">
+      <configuration name="TestBigDecimal.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -712,9 +708,9 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44506106" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42857143" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42841288" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
       <window_info anchor="bottom" id="Problems" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3263041" />
       <window_info anchor="right" id="Gradle" order="3" />
@@ -744,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,8 +1032,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TagContentExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="510">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/nbaynham/hackerrank/TestBigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
