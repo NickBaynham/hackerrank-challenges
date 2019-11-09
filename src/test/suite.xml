@@ -3,10 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="Regression1">
         <classes>
-            <class name="io.nbaynham.hackerrank.Anagrams"/>
-            <class name="io.nbaynham.hackerrank.CurrencyTests"/>
-            <class name="io.nbaynham.hackerrank.Reverse"/>
-            <class name="io.nbaynham.hackerrank.SubstringComparisons"/>
+            <class name="io.nbaynham.hackerrank.TestPrime"/>
         </classes>
     </test>
 </suite>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.nbaynham.hackerrank.Anagrams" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-29T19:41:36" hostname="2K2C5M2" time="0.006">
+<testsuite name="io.nbaynham.hackerrank.Anagrams" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-07T01:28:40" hostname="2K2C5M2" time="0.002">
   <properties/>
-  <testcase name="test" classname="io.nbaynham.hackerrank.Anagrams" time="0.006"/>
+  <testcase name="test" classname="io.nbaynham.hackerrank.Anagrams" time="0.002"/>
   <system-out><![CDATA[Anagrams
 Anagrams
 ]]></system-out>

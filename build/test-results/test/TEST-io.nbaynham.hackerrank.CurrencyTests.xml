@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.nbaynham.hackerrank.CurrencyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-29T19:41:36" hostname="2K2C5M2" time="0.017">
+<testsuite name="io.nbaynham.hackerrank.CurrencyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-07T01:28:40" hostname="2K2C5M2" time="0.08">
   <properties/>
-  <testcase name="currencyTest" classname="io.nbaynham.hackerrank.CurrencyTests" time="0.017"/>
+  <testcase name="currencyTest" classname="io.nbaynham.hackerrank.CurrencyTests" time="0.08"/>
   <system-out><![CDATA[?10.99
 10,99 €
 ]]></system-out>

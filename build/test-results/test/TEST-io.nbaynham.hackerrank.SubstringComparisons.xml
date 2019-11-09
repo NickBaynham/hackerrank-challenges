@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.nbaynham.hackerrank.SubstringComparisons" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-29T19:41:36" hostname="2K2C5M2" time="0.001">
+<testsuite name="io.nbaynham.hackerrank.SubstringComparisons" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-07T01:28:40" hostname="2K2C5M2" time="0.0">
   <properties/>
-  <testcase name="test" classname="io.nbaynham.hackerrank.SubstringComparisons" time="0.001"/>
+  <testcase name="test" classname="io.nbaynham.hackerrank.SubstringComparisons" time="0.0"/>
   <system-out><![CDATA[ava
 wel
 ]]></system-out>
